@@ -1,0 +1,25 @@
+form{
+    margin-left: 4%;
+    margin-bottom: 70px;
+    border-style:groove;
+    border-radius: 20px;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(67, 197, 130);
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 20px;
+}
+
+.tabla{
+    margin-left: 40%;
+    margin-right: 5%;
+    border-style: groove;
+    margin-top: -51%;
+    background-color: white;
+    border-radius: 20px;
+}
+
